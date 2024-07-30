@@ -71,11 +71,11 @@ How to get repository from Github, install packages and run it locally
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/skec13/skec13.github.io.git
+   git clone https://github.com/skec13/ToDoApp.git
    ```
 2. Go to downloaded file and CD into server file
    ```
-   cd skec13.github.io
+   cd ToDoApp
    ```
 3. Install NPM packages
    ```sh
@@ -83,10 +83,10 @@ How to get repository from Github, install packages and run it locally
    ``` 
 4. Run server locally
    ```
-   npm run dev
+   npm start
    ```
 5. Access web page
-   [http://localhost:5173](http://localhost:5173) (check console for correct port)
+   [http://localhost:9000](http://localhost:9000) (check console for correct port)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -94,7 +94,7 @@ How to get repository from Github, install packages and run it locally
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Vercel link: https://skec13-github-io.vercel.app/
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
