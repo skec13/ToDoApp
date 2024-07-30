@@ -1,0 +1,39 @@
+{
+    "list_data": [
+        {
+            "title": "wake-up",
+            "time": "6:30",
+            "cb0": false
+        },
+        {
+            "title": "bike",
+            "time": "7:00-8:00",
+            "cb1": false
+        },
+        {
+            "title": "study",
+            "time": "9:00-14:00",
+            "cb2": false
+        },
+        {
+            "title": "upperbody workout",
+            "time": "14:00",
+            "cb3": false
+        },
+        {
+            "title": "programming",
+            "time": "16:00-18:00",
+            "cb4": false
+        },
+        {
+            "title": "football/run",
+            "time": "19:00",
+            "cb5": false
+        },
+        {
+            "title": "sleep",
+            "time": "22:30",
+            "cb6": false
+        }
+    ]
+}
